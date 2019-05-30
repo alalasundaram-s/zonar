@@ -1,0 +1,232 @@
+<assetlist ver="1.07">
+<asset id="64">
+<name>W668329X</name>
+<tag>2000</tag>
+<vin>VINEU3329445W</vin>
+<fleet>2000</fleet>
+<type id="0">Standard</type>
+<subtype/>
+<exsid/>
+<mileage>51010</mileage>
+<location>Home</location>
+<mileoffset>0</mileoffset>
+<radioaddress/>
+<mfg>FORD</mfg>
+<inservice>18 Mar 1994</inservice>
+<inspdate id="2005" type="TRU0001A-3.0.2">1108756851</inspdate>
+<yardstat>
+<yard/>
+<stat timestamp="0">unknown</stat>
+</yardstat>
+<status>t</status>
+<opstatus timestamp="1108767169">good</opstatus>
+<homeloi>Seattle</homeloi>
+</asset>
+<asset id="42">
+<name>DW4523</name>
+<tag>150</tag>
+<vin>VIN289290D82</vin>
+<fleet>1009</fleet>
+<type id="0">Standard</type>
+<subtype/>
+<exsid/>
+<mileage>3183228</mileage>
+<location>Home</location>
+<mileoffset>0</mileoffset>
+<radioaddress/>
+<mfg>GMC</mfg>
+<inservice>01 Jan 1980</inservice>
+<inspdate id="1356" type="TRUCK-2.0.1">1085856281</inspdate>
+<yardstat>
+<yard/>
+<stat timestamp="0">unknown</stat>
+</yardstat>
+<status>t</status>
+<opstatus timestamp="0">unknown</opstatus>
+<homeloi>Seattle</homeloi>
+</asset>
+<asset id="51">
+<name/>
+<tag>140</tag>
+<vin>VIN82398219</vin>
+<fleet>1404</fleet>
+<type id="0">Standard</type>
+<subtype/>
+<exsid/>
+<mileage>1640</mileage>
+<location>Home</location>
+<mileoffset>0</mileoffset>
+<radioaddress/>
+<mfg>GMC</mfg>
+<inservice>12 Oct 2004</inservice>
+<inspdate id="1886" type="TRUCK-2.0.1">1097641721</inspdate>
+<yardstat>
+<yard>seatac</yard>
+<stat timestamp="1115746652">in</stat>
+</yardstat>
+<status>f</status>
+<opstatus timestamp="1107633603">good</opstatus>
+<homeloi>Seattle</homeloi>
+</asset>
+<asset id="60">
+<name>VELDK43</name>
+<tag>1000086</tag>
+<vin>129094DL392H2N</vin>
+<fleet>1086</fleet>
+<type id="0">Standard</type>
+<subtype/>
+<exsid/>
+<mileage>20697</mileage>
+<location>Home</location>
+<mileoffset>20000</mileoffset>
+<radioaddress/>
+<mfg>FORD</mfg>
+<inservice>09 Feb 2005</inservice>
+<inspdate id="1976" type="TRU0001A-3.0.2">1107967243</inspdate>
+<yardstat>
+<yard/>
+<stat timestamp="0">unknown</stat>
+</yardstat>
+<status>t</status>
+<opstatus timestamp="1107967250">good</opstatus>
+<homeloi>Seattle</homeloi>
+</asset>
+<asset id="53">
+<name>DDD456</name>
+<tag>57</tag>
+<vin>VIN12456789258641</vin>
+<fleet>0057</fleet>
+<type id="0">Standard</type>
+<subtype/>
+<exsid/>
+<mileage>5</mileage>
+<location>Home</location>
+<mileoffset>0</mileoffset>
+<radioaddress/>
+<mfg>FRHT</mfg>
+<inservice>22 Oct 2004</inservice>
+<inspdate/>
+<yardstat>
+<yard/>
+<stat timestamp="0">unknown</stat>
+</yardstat>
+<status>f</status>
+<opstatus timestamp="1108497996">good</opstatus>
+<homeloi>Seattle</homeloi>
+</asset>
+<asset id="61">
+<name>GGG125</name>
+<tag>5800012</tag>
+<vin>VIN85462125869634</vin>
+<fleet>5812</fleet>
+<type id="0">Standard</type>
+<subtype/>
+<exsid/>
+<mileage>35600</mileage>
+<location>Home</location>
+<mileoffset>0</mileoffset>
+<radioaddress/>
+<mfg>FRHT</mfg>
+<inservice>09 Feb 2005</inservice>
+<inspdate id="2001" type="TRU0001A-3.0.2">1108579031</inspdate>
+<yardstat>
+<yard/>
+<stat timestamp="0">unknown</stat>
+</yardstat>
+<status>t</status>
+<opstatus timestamp="1112114094">unsat</opstatus>
+<homeloi>Seattle</homeloi>
+</asset>
+<asset id="58">
+<name>DDD456</name>
+<tag>5006</tag>
+<vin>VIN52869547821208</vin>
+<fleet>5008</fleet>
+<type id="0">Standard</type>
+<subtype/>
+<exsid/>
+<mileage>20030</mileage>
+<location>Home</location>
+<mileoffset>0</mileoffset>
+<radioaddress/>
+<mfg>FRHT</mfg>
+<inservice>02 Feb 2005</inservice>
+<inspdate id="1952" type="TRU0001A-3.0.2">1107363707</inspdate>
+<yardstat>
+<yard/>
+<stat timestamp="0">unknown</stat>
+</yardstat>
+<status>t</status>
+<opstatus timestamp="1108151237">good</opstatus>
+<homeloi>Seattle</homeloi>
+</asset>
+<asset id="59">
+<name>WA6842</name>
+<tag>3406</tag>
+<vin>VIN676754987S3458</vin>
+<fleet>3406</fleet>
+<type id="0">Standard</type>
+<subtype/>
+<exsid/>
+<mileage>736</mileage>
+<location>Home</location>
+<mileoffset>0</mileoffset>
+<radioaddress/>
+<mfg>KENWORTH</mfg>
+<inservice>05 Feb 2005</inservice>
+<inspdate/>
+<yardstat>
+<yard/>
+<stat timestamp="0">unknown</stat>
+</yardstat>
+<status>t</status>
+<opstatus timestamp="1107643960">crit</opstatus>
+<homeloi>Seattle</homeloi>
+</asset>
+<asset id="56">
+<name>OR42243</name>
+<tag>1001</tag>
+<vin>VIN676754987S3459</vin>
+<fleet>1001</fleet>
+<type id="0">Standard</type>
+<subtype/>
+<exsid/>
+<mileage>0</mileage>
+<location>Home</location>
+<mileoffset>0</mileoffset>
+<radioaddress/>
+<mfg>PETERBUILT</mfg>
+<inservice>12 Nov 2004</inservice>
+<inspdate/>
+<yardstat>
+<yard/>
+<stat timestamp="0">unknown</stat>
+</yardstat>
+<status>t</status>
+<opstatus timestamp="0">unknown</opstatus>
+<homeloi>Seattle</homeloi>
+</asset>
+<asset id="69">
+<name/>
+<tag>2001</tag>
+<vin/>
+<fleet>2001-1</fleet>
+<type id="0">Standard</type>
+<subtype/>
+<exsid/>
+<mileage>55220</mileage>
+<location>Home</location>
+<mileoffset>0</mileoffset>
+<radioaddress/>
+<mfg/>
+<inservice>29 Apr 2005</inservice>
+<inspdate id="2082" type="TRU0001A-3.0.2">1108756048</inspdate>
+<yardstat>
+<yard/>
+<stat timestamp="0">unknown</stat>
+</yardstat>
+<status>t</status>
+<opstatus timestamp="1114849554">unsat</opstatus>
+<homeloi>Seattle</homeloi>
+</asset>
+</assetlist>
